@@ -12,4 +12,7 @@
     - poweroff  : 전원 끄기
     - hibernate : 최대 절전모드
     - ignore    : 아무것도 안함
-  - 
+  - systemctl restart systemd-login.service
+
+
+
